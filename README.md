@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name Here]
 
-<!--
-**manuk027/manuk027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I'm a passionate, self-taught coder with a degree in Computer Applications. My journey into tech has been driven by curiosity, dedication, and a constant desire to learn and grow in the world of programming and development.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- 💻 **Python**
+- 🌐 **JavaScript**
+- 🔧 **C**
+- 🎨 **HTML / CSS**
+- ☕ **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact Me
+- 📧 **Email:** [your.krishnamanu27112004@gmail.com]  
+- 📱 **Phone:** [+91-8281337927]  
+- 📸 **Instagram:** [@your_instagram](https://instagram.com/your_instagram)  
+- 💼 **LinkedIn:** [Your LinkedIn Name](https://linkedin.com/in/your_linkedin)

@@ -11,7 +11,7 @@ I'm a passionate, self-taught coder with a degree in Computer Applications. My j
 - ☕ **Java**
 
 ## 📬 Contact Me
-- 📧 **Email:** [krishnamanu27112004@gmail.com]  
-- 📱 **Phone:** [+91-8281337927]  
+- 📧 **Email:** krishnamanu27112004@gmail.com
+- 📱 **Phone:** +91-8281337927
 - 📸 **Instagram:** [__man_____u__](https://instagram.com/__man_____u__)  
 - 💼 **LinkedIn:** [Your LinkedIn Name](https://linkedin.com/in/your_linkedin)

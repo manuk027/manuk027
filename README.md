@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:0F4C81,100:F7C948&text=EA%20SPORTS%20FC%20%7C%20MANU%20KRISHNA&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20Cloud%20Native&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:0F4C81,100:F7C948&text=MANU%20KRISHNA&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20Cloud%20Native&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=900&color=F7C948&center=true&vCenter=true&width=900&lines=%F0%9F%87%AE%F0%9F%87%B3+Hi%2C+I'm+Manu+Krishna;Full+Stack+Developer;Backend+Engineering+%7C+Microservices;Node.js+%7C+TypeScript+%7C+React;Currently+Mastering+Kubernetes+%26+Cloud"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=900&color=F7C948&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Manu+Krishna;Full+Stack+Developer;Backend+Engineering+%7C+Microservices;Node.js+%7C+TypeScript+%7C+React;Currently+Mastering+Kubernetes+%26+Cloud"/>
 
 <br>
 
@@ -16,69 +16,41 @@
 
 ---
 
-# 🏆 EA SPORTS FC PLAYER CARD
+# 👨‍💻 About Me
 
-<div align="center">
+> Passionate Full Stack Developer with a strong focus on backend engineering, scalable architecture, and cloud-native applications.
 
-| 🎮 Attribute | Rating |
-|:------------:|:------:|
-| ⚡ Pace | **92** |
-| 🎯 Frontend | **88** |
-| 🎮 Backend | **95** |
-| ✨ JavaScript | **94** |
-| 🛡 Security | **89** |
-| 💪 Problem Solving | **91** |
-
-# ⭐ Overall Rating **91**
-
-### 🇮🇳 India
-
-### 🎯 Position • Full Stack Developer
-
-### ⚽ Preferred Foot • JavaScript
-
-### 🏟 League • MERN Ecosystem
-
-### 🚀 Current Season • Kubernetes • Microservices • AWS
-
-</div>
+- 🚀 Building production-ready Full Stack applications
+- ⚙️ Backend Engineering enthusiast
+- 🌩 Currently learning Kubernetes, gRPC & Distributed Systems
+- 🏗 Exploring Microservices and DevOps
+- 🌱 Continuously improving through projects and open source
 
 ---
 
-## ⚽ Player Bio
-
-> Passionate Full Stack Developer focused on building scalable, production-ready applications using modern backend architecture and cloud-native technologies.
-
-- 🚀 Building Full Stack Applications with the **MERN Stack**
-- ⚙️ Backend Engineering Enthusiast
-- 🌩 Learning Kubernetes, gRPC & Distributed Systems
-- 🏗 Interested in Microservices & DevOps
-- 🌱 Constantly improving through projects and open source
-
----
-
-## 🎯 CURRENT SEASON
+# 🎯 Current Goals
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🏆 Season Objectives
+### 📌 Roadmap
 
 - ✅ Build Production Ready APIs
 - ✅ Master TypeScript
-- ✅ Learn Docker & Containerization
+- ✅ Learn Docker
 - 🔄 Kubernetes
 - 🔄 Microservices
 - 🔄 gRPC
-- 🔄 AWS Cloud
+- 🔄 AWS
 - 🎯 Contribute to Open Source
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📈 Career Progress
+### 📈 Skill Progress
 
 ```text
 Backend Engineering      ████████████░   92%
@@ -99,66 +71,65 @@ Microservices            ███████░░░░░░   64%
 ```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 💼 TRANSFER MARKET
+# 💼 Professional Profile
 
 <table>
 <tr>
+
 <td>
 
-### 🎮 PLAYER STATUS
+### Current Status
 
-| Attribute | Value |
-|-----------|-------|
-| 🟢 Status | Available for Opportunities |
-| 💼 Position | Full Stack Developer |
-| ⚙️ Specialty | Backend Engineering |
+| Category | Details |
+|----------|---------|
+| 💼 Role | Full Stack Developer |
+| ⚙️ Specialization | Backend Engineering |
 | 🌍 Location | India |
-| 🚀 Preferred Role | Backend / Full Stack |
+| 🚀 Interested In | Backend / Full Stack |
 | 🤝 Open To | Internships • Freelance • Collaboration |
 
 </td>
 
 <td>
 
-### ⚽ PLAYER PROFILE
+### Strengths
 
 ```text
-Overall        ⭐⭐⭐⭐⭐ 91
+Backend Development
 
-Experience     ★★★★☆
+API Design
 
-Communication  ★★★★★
+Problem Solving
 
-Problem Solving★★★★☆
+System Design
 
-Team Work      ★★★★★
+Team Collaboration
 
-Adaptability   ★★★★★
-
-Learning       ★★★★★
+Continuous Learning
 ```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🚀 CURRENT FOCUS
+# 🚀 Current Focus
 
 <table>
+
 <tr>
 
 <td align="center" width="25%">
 
-### ⚙️
-
-Backend
+### ⚙️ Backend
 
 Node.js
 
@@ -170,9 +141,7 @@ TypeScript
 
 <td align="center" width="25%">
 
-### ☁️
-
-Cloud
+### ☁️ Cloud
 
 Docker
 
@@ -184,9 +153,7 @@ AWS
 
 <td align="center" width="25%">
 
-### 🛰️
-
-Architecture
+### 🛰 Architecture
 
 Microservices
 
@@ -200,9 +167,7 @@ Kafka
 
 <td align="center" width="25%">
 
-### 📚
-
-Learning
+### 📚 Learning
 
 System Design
 
@@ -213,35 +178,29 @@ CI/CD
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 🏅 CAREER HIGHLIGHTS
+# 🏆 Highlights
 
-🏆 Built Full Stack MERN Applications
-
-🏆 Developed Secure REST APIs
-
-🏆 Implemented JWT Authentication & Authorization
-
-🏆 Worked with SQL & NoSQL Databases
-
-🏆 Built Dockerized Applications
-
-🏆 Exploring Cloud Native Development
-
-🏆 Learning Distributed Systems
-
-🏆 Passionate Open Source Learner
+- 🚀 Built Full Stack MERN Applications
+- 🔐 Developed Secure REST APIs
+- 🔑 Implemented JWT Authentication & Authorization
+- 🗄 Worked with SQL & NoSQL Databases
+- 🐳 Built Dockerized Applications
+- ☁️ Exploring Cloud Native Development
+- ⚡ Learning Distributed Systems
+- ❤️ Open Source Learner
 
 ---
 
-# ⚙️ PLAYER LOADOUT
+# ⚙️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
@@ -251,7 +210,9 @@ CI/CD
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
-### 🎨 Frontend
+---
+
+## 🎨 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -268,7 +229,9 @@ CI/CD
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -285,7 +248,9 @@ CI/CD
 <img src="https://img.shields.io/badge/CORS-00599C?style=for-the-badge"/>
 </p>
 
-### 🗄️ Database
+---
+
+## 🗄 Databases
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -295,14 +260,18 @@ CI/CD
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### 📡 Messaging
+---
+
+## 📡 Messaging
 
 <p>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
-### ☁️ DevOps & Cloud
+---
+
+## ☁️ DevOps & Cloud
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -313,7 +282,9 @@ CI/CD
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-### 🛠 Tools
+---
+
+## 🛠 Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -325,5 +296,3 @@ CI/CD
 </p>
 
 </div>
-
----

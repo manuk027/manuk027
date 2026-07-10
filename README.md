@@ -1,145 +1,329 @@
-<h1 align="center">Hi 👋, I'm Manu Krishna</h1>
-<h3 align="center">Aspiring Full-Stack Developer | MERN Stack | Backend & Cloud Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manuk027&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:0F4C81,100:F7C948&text=EA%20SPORTS%20FC%20%7C%20MANU%20KRISHNA&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20Cloud%20Native&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=900&color=F7C948&center=true&vCenter=true&width=900&lines=%F0%9F%87%AE%F0%9F%87%B3+Hi%2C+I'm+Manu+Krishna;Full+Stack+Developer;Backend+Engineering+%7C+Microservices;Node.js+%7C+TypeScript+%7C+React;Currently+Mastering+Kubernetes+%26+Cloud"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=manuk027&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/manuk027?style=for-the-badge&color=0F4C81"/>
+
+<img src="https://img.shields.io/github/stars/manuk027?style=for-the-badge&color=F7C948"/>
+
+</div>
+
+---
+
+# 🏆 EA SPORTS FC PLAYER CARD
+
+<div align="center">
+
+| 🎮 Attribute | Rating |
+|:------------:|:------:|
+| ⚡ Pace | **92** |
+| 🎯 Frontend | **88** |
+| 🎮 Backend | **95** |
+| ✨ JavaScript | **94** |
+| 🛡 Security | **89** |
+| 💪 Problem Solving | **91** |
+
+# ⭐ Overall Rating **91**
+
+### 🇮🇳 India
+
+### 🎯 Position • Full Stack Developer
+
+### ⚽ Preferred Foot • JavaScript
+
+### 🏟 League • MERN Ecosystem
+
+### 🚀 Current Season • Kubernetes • Microservices • AWS
+
+</div>
+
+---
+
+## ⚽ Player Bio
+
+> Passionate Full Stack Developer focused on building scalable, production-ready applications using modern backend architecture and cloud-native technologies.
+
+- 🚀 Building Full Stack Applications with the **MERN Stack**
+- ⚙️ Backend Engineering Enthusiast
+- 🌩 Learning Kubernetes, gRPC & Distributed Systems
+- 🏗 Interested in Microservices & DevOps
+- 🌱 Constantly improving through projects and open source
+
+---
+
+## 🎯 CURRENT SEASON
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Season Objectives
+
+- ✅ Build Production Ready APIs
+- ✅ Master TypeScript
+- ✅ Learn Docker & Containerization
+- 🔄 Kubernetes
+- 🔄 Microservices
+- 🔄 gRPC
+- 🔄 AWS Cloud
+- 🎯 Contribute to Open Source
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Career Progress
+
+```text
+Backend Engineering      ████████████░   92%
+
+Node.js                  ████████████░   91%
+
+React                    ██████████░░░   84%
+
+TypeScript               ███████████░░   88%
+
+Databases                ███████████░░   89%
+
+Docker                   █████████░░░░   76%
+
+Kubernetes               ██████░░░░░░░   58%
+
+Microservices            ███████░░░░░░   64%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💼 TRANSFER MARKET
+
+<table>
+<tr>
+<td>
+
+### 🎮 PLAYER STATUS
+
+| Attribute | Value |
+|-----------|-------|
+| 🟢 Status | Available for Opportunities |
+| 💼 Position | Full Stack Developer |
+| ⚙️ Specialty | Backend Engineering |
+| 🌍 Location | India |
+| 🚀 Preferred Role | Backend / Full Stack |
+| 🤝 Open To | Internships • Freelance • Collaboration |
+
+</td>
+
+<td>
+
+### ⚽ PLAYER PROFILE
+
+```text
+Overall        ⭐⭐⭐⭐⭐ 91
+
+Experience     ★★★★☆
+
+Communication  ★★★★★
+
+Problem Solving★★★★☆
+
+Team Work      ★★★★★
+
+Adaptability   ★★★★★
+
+Learning       ★★★★★
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 CURRENT FOCUS
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+Backend
+
+Node.js
+
+Express
+
+TypeScript
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+Cloud
+
+Docker
+
+Kubernetes
+
+AWS
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛰️
+
+Architecture
+
+Microservices
+
+gRPC
+
+Redis
+
+Kafka
+
+</td>
+
+<td align="center" width="25%">
+
+### 📚
+
+Learning
+
+System Design
+
+Distributed Systems
+
+CI/CD
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏅 CAREER HIGHLIGHTS
+
+🏆 Built Full Stack MERN Applications
+
+🏆 Developed Secure REST APIs
+
+🏆 Implemented JWT Authentication & Authorization
+
+🏆 Worked with SQL & NoSQL Databases
+
+🏆 Built Dockerized Applications
+
+🏆 Exploring Cloud Native Development
+
+🏆 Learning Distributed Systems
+
+🏆 Passionate Open Source Learner
+
+---
+
+# ⚙️ PLAYER LOADOUT
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
----
+### 🎨 Frontend
 
-# 💫 About Me
-
-🚀 Aspiring Full-Stack Developer passionate about building scalable, production-ready applications.
-
-- 🌱 Currently learning **Kubernetes, Microservices & Cloud-Native Development**
-- 💻 Building Full-Stack Applications using the MERN Stack
-- ⚙️ Interested in Backend Engineering, DevOps & Distributed Systems
-- 📖 Always exploring new technologies and open-source tools
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/27manu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@krishnamanu27112004" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://x.com/ManuKrishna2004" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://instagram.com/__man_____u__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/20966119" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://reddit.com/user/__man__u" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<a href="mailto:krishnamanu27112004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
----
+<p>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+</p>
 
-# 💻 Tech Stack
+### ⚙️ Backend
 
-### Languages
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=black"/>
+<img src="https://img.shields.io/badge/Multer-FF9800?style=for-the-badge"/>
+</p>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Nodemailer-0A7C3E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/bcrypt-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/node--cron-339933?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CORS-00599C?style=for-the-badge"/>
+</p>
 
-### Frontend
+### 🗄️ Database
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Lucide React](https://img.shields.io/badge/Lucide-000000?style=for-the-badge)
-![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react)
-![React Toastify](https://img.shields.io/badge/React_Toastify-FF6C37?style=for-the-badge)
-![React Hot Toast](https://img.shields.io/badge/React_Hot_Toast-FF6B6B?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
-### Backend
+### 📡 Messaging
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
-![bcrypt](https://img.shields.io/badge/bcrypt-4CAF50?style=for-the-badge)
-![Multer](https://img.shields.io/badge/Multer-FF9800?style=for-the-badge)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-0A7C3E?style=for-the-badge)
-![node-cron](https://img.shields.io/badge/node--cron-339933?style=for-the-badge)
-![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
-![CORS](https://img.shields.io/badge/CORS-00599C?style=for-the-badge)
-![Crypto](https://img.shields.io/badge/Crypto-000000?style=for-the-badge)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
 
-### Databases & ORM
+### ☁️ DevOps & Cloud
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![mysql2](https://img.shields.io/badge/mysql2-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
-### Messaging
+### 🛠 Tools
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+</p>
 
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=manuk027&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=manuk027&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manuk027&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=manuk027&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-# ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# 🔝 Top Contributed Repository
-
-![](https://github-contributor-stats.vercel.app/api?username=manuk027&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
 ---

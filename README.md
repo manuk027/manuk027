@@ -1,17 +1,5 @@
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:0F4C81,100:F7C948&text=MANU%20KRISHNA&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20Cloud%20Native&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=900&color=F7C948&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Manu+Krishna;Full+Stack+Developer;Backend+Engineering+%7C+Node.js;TypeScript+%7C+React;Learning+Kubernetes+%26+Microservices"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=manuk027&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/manuk027?style=for-the-badge&color=0F4C81"/>
-<img src="https://img.shields.io/github/stars/manuk027?style=for-the-badge&color=F7C948"/>
-
-</div>
+<div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Animation"/> <br><br> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=900&color=F7C948&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Manu+Krishna;Full+Stack+Developer;Backend+Engineering+%7C+Node.js;TypeScript+%7C+React;Learning+Kubernetes+%26+Microservices"/> <br> <img src="https://komarev.com/ghpvc/?username=manuk027&style=for-the-badge&color=blue"/> <img src="https://img.shields.io/github/followers/manuk027?style=for-the-badge&color=0F4C81"/> <img src="https://img.shields.io/github/stars/manuk027?style=for-the-badge&color=F7C948"/> </div>
 
 ---
 

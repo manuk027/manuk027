@@ -1,70 +1,145 @@
 
-<div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Animation"/> <br><br> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=900&color=F7C948&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Manu+Krishna;Full+Stack+Developer;Backend+Engineering+%7C+Node.js;TypeScript+%7C+React;Learning+Kubernetes+%26+Microservices"/> <br> <img src="https://komarev.com/ghpvc/?username=manuk027&style=for-the-badge&color=blue"/> <img src="https://img.shields.io/github/followers/manuk027?style=for-the-badge&color=0F4C81"/> <img src="https://img.shields.io/github/stars/manuk027?style=for-the-badge&color=F7C948"/> </div>
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=F7C948&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Manu+Krishna;Full+Stack+Developer;Backend+Engineering+with+Node.js;JavaScript+%7C+TypeScript+%7C+React;Learning+Microservices+%26+Kubernetes"/>
+
+<br>
+
+<a href="https://github.com/manuk027">
+<img src="https://img.shields.io/github/followers/manuk027?style=for-the-badge&logo=github&color=0F4C81"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=manuk027&style=for-the-badge&color=0F4C81"/>
+
+<img src="https://img.shields.io/github/stars/manuk027?affiliations=OWNER&style=for-the-badge&color=F7C948"/>
+
+</div>
 
 ---
 
-# 👋 About Me
+# 💫 About Me
 
-Passionate Full Stack Developer with a strong interest in backend engineering, scalable APIs, distributed systems, and cloud-native development.
+I'm a **Full Stack Developer** with a strong interest in **Backend Engineering**, **Software Architecture**, and **Cloud-Native Development**.
 
-- 🚀 Building Full Stack applications using the MERN Stack
-- ⚙️ Backend-focused with Node.js & TypeScript
-- 🏗 Interested in scalable software architecture
-- 🌩 Currently learning Kubernetes, gRPC, and Microservices
-- 📚 Continuously improving through hands-on projects
-- 🌱 Always exploring new technologies and best practices
+I enjoy building scalable applications, designing clean APIs, and learning technologies that help create production-ready systems.
 
----
-
-# 🎯 Current Focus
-
-| Backend | Cloud | Architecture | Learning |
-|---------|-------|--------------|----------|
-| Node.js | Docker | REST APIs | System Design |
-| Express | Kubernetes | Microservices | Distributed Systems |
-| TypeScript | AWS (Learning) | gRPC | CI/CD |
-| JWT | | Redis & Kafka | |
+- 🚀 Building modern Full Stack applications
+- ⚙️ Backend-first mindset
+- 📦 Designing scalable REST APIs
+- 🐳 Working with Docker & Containers
+- ☸️ Learning Kubernetes & Microservices
+- 📚 Constantly improving through hands-on projects
 
 ---
 
-# 📈 Learning Progress
+# 🚀 Tech Highlights
 
-```text
-Backend Engineering      ████████████░   92%
-Node.js                  ████████████░   91%
-React                    ██████████░░░   84%
-TypeScript               ███████████░░   88%
-Databases                ███████████░░   89%
-Docker                   █████████░░░░   76%
-Kubernetes               ██████░░░░░░░   58%
-Microservices            ███████░░░░░░   64%
-```
+| Focus | Technologies |
+|-------|--------------|
+| Backend | Node.js • Express • TypeScript |
+| Frontend | React • Redux • React Query • Vite |
+| Database | MongoDB • PostgreSQL • MySQL • Redis |
+| DevOps | Docker • Nginx • GitHub |
+| Architecture | REST APIs • JWT • Microservices |
+| Learning | Kubernetes • AWS • Kafka • gRPC |
 
 ---
 
-# 💼 Professional Profile
+# 🛠 Tech Stack
 
-| Category | Details |
-|----------|---------|
-| Role | Full Stack Developer |
-| Primary Interest | Backend Engineering |
-| Location | India |
-| Open To | Internships · Freelance · Collaboration |
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,c"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,nginx"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+</p>
 
 ---
 
-# 🧠 Development Principles
+# 💼 Featured Project
 
-- Write clean, maintainable code
-- Build scalable backend systems
+## 🛒 E-Commerce Platform
+
+A modern Full Stack commerce application built using the JavaScript/TypeScript ecosystem.
+
+### Features
+
+- User Authentication
+- Secure JWT Authorization
+- Product Management
+- Shopping Cart
+- Order Management
+- Admin Dashboard
+- Responsive UI
+- RESTful APIs
+
+### Tech Stack
+
+- React
+- Node.js
+- Express
+- MongoDB
+- JWT
+- Docker
+
+---
+
+# 🌱 Currently Exploring
+
+- ☸ Kubernetes
+- 🏗 Microservices
+- ⚡ gRPC
+- 📨 Apache Kafka
+- ☁ AWS
+- 🔥 Distributed Systems
+
+---
+
+# 🧠 Engineering Principles
+
+- Write clean and maintainable code
+- Build scalable backend services
 - Follow REST API best practices
-- Apply SOLID principles where appropriate
-- Focus on performance and security
-- Keep learning through real-world projects
+- Focus on security and performance
+- Prefer simplicity over complexity
+- Learn continuously through real-world projects
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -80,64 +155,73 @@ Microservices            ███████░░░░░░   64%
 
 </div>
 
+---
+
+# 📊 Contribution Graph
+
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=manuk027&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=manuk027&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🛠 Tech Stack
+# 🏆 GitHub Trophies
 
-## 💻 Languages
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<img src="https://github-profile-trophy.vercel.app/?username=manuk027&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-## 🎨 Frontend
-
-React • Redux • React Query • Tailwind CSS • Vite • React Router • Context API • Axios • Chart.js
-
-## ⚙ Backend
-
-Node.js • Express • JWT • Passport • Multer • Nodemailer • bcrypt • node-cron • CORS
-
-## 🗄 Databases
-
-MongoDB • PostgreSQL • MySQL • Prisma • Redis
-
-## 📡 Messaging
-
-RabbitMQ • Apache Kafka
-
-## ☁ DevOps & Cloud
-
-Docker • Kubernetes (Learning) • AWS (Learning) • Nginx • Firebase • Vercel
-
-## 🔧 Tools
-
-Git • GitHub • Postman • VS Code • ESLint • Figma
+</div>
 
 ---
 
-# 🚀 Currently Exploring
+# 🐍 Contribution Snake
 
-- Kubernetes
-- Microservices
-- gRPC
-- Distributed Systems
-- Cloud Native Development
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manuk027/manuk027/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+> **Note:** This requires a GitHub Actions workflow to generate the snake animation.
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-ready backend systems
+- Deepen Kubernetes knowledge
+- Master Microservices Architecture
+- Learn Cloud-Native application design
+- Contribute to Open Source projects
+- Build impactful Full Stack applications
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/manuk027">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
-
-*"Keep learning, keep building."*
+### 💡 *Building scalable software, one commit at a time.*
 
 </div>

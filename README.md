@@ -2,7 +2,7 @@
 
 # Hi, I'm Manu Krishna
 
-**Full Stack Developer | Backend Engineer**
+### Full Stack Developer | Backend Engineer
 
 Building scalable web applications with **JavaScript, TypeScript, Node.js, and React**.
 
@@ -18,40 +18,52 @@ I'm a Full Stack Developer focused on **backend engineering, software architectu
 
 I enjoy designing clean APIs, building scalable applications, and understanding how distributed systems work.
 
-* Backend-focused development
-* REST API design and authentication
-* Clean architecture and design patterns
-* Database design and optimization
-* Docker and containerized applications
-* Microservices and distributed systems
+- Backend-focused development
+- REST API design and authentication
+- Clean architecture and design patterns
+- Database design and optimization
+- Docker and containerized applications
+- Microservices and distributed systems
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-JavaScript · TypeScript · Java · Python · C
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
+</p>
 
-**Frontend**
+### Frontend
 
-React · Redux · React Query · Vite · Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind" />
+</p>
 
-**Backend**
+### Backend
 
-Node.js · Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Databases**
+### Databases
 
-MongoDB · PostgreSQL · MySQL · Redis
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
-Docker · Kubernetes · AWS · Nginx · Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,firebase" />
+</p>
 
-**Tools**
+### Tools
 
-Git · GitHub · VS Code · Postman · Figma
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
 ---
 
@@ -63,27 +75,30 @@ A full-stack e-commerce application built with the JavaScript/TypeScript ecosyst
 
 **Features**
 
-* Authentication & JWT authorization
-* Product management
-* Shopping cart
-* Order management
-* Admin dashboard
-* RESTful APIs
-* Responsive UI
-* Dockerized deployment
+- User authentication
+- JWT authorization
+- Product management
+- Shopping cart
+- Order management
+- Admin dashboard
+- RESTful APIs
+- Responsive UI
+- Dockerized deployment
 
-**Stack:** React · Node.js · Express · MongoDB · JWT · Docker
+**Tech Stack**
+
+`React` · `Node.js` · `Express` · `MongoDB` · `JWT` · `Docker`
 
 ---
 
 ## Currently Learning
 
-* Microservices Architecture
-* Kubernetes
-* gRPC
-* Apache Kafka
-* AWS
-* Distributed Systems
+- Microservices Architecture
+- Kubernetes
+- gRPC
+- Apache Kafka
+- AWS
+- Distributed Systems
 
 ---
 
@@ -91,32 +106,11 @@ A full-stack e-commerce application built with the JavaScript/TypeScript ecosyst
 
 ```text
 Clean Code
-    ↓
+     ↓
 Scalable Architecture
-    ↓
+     ↓
 Reliable Backend Services
-    ↓
+     ↓
 Distributed Systems
-    ↓
+     ↓
 Cloud-Native Applications
-```
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manuk027&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuk027&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-**Building scalable software, one commit at a time.**
-
-</div>
